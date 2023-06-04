@@ -1,0 +1,7 @@
+export default {
+  LOGIN: 'LOGIN',
+  ACCOUNT: 'ACCOUNT',
+  EXPLORE: 'LIST',
+  DEFETED_LIST: 'DLIST',
+  MAINNAV: 'MAINNAV',
+};

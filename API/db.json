@@ -1,0 +1,61 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "root@root.com",
+            "pass": "root",
+            "name": "rootuser",
+            "type": "USER",
+            "description": "Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetur adipisicing eli Maxime mollitia, molestiae quas",
+            "following": 3,
+            "followers": 1,
+            "saved": 3,
+            "followinglist": ["H&M", "Denim", "Kingman"],
+            "followerlist": ["root1@root.com"]
+        },
+        {
+            "id": 2,
+            "email": "root1@root.com",
+            "pass": "root1",
+            "name": "rootuser1",
+            "type": "USER",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum",
+            "following": 3,
+            "followers": 1,
+            "saved": 3,
+            "followinglist": ["H&M", "Denim", "Belenciage"],
+            "followerlist": ["root@root.com"]
+        }
+    ],
+    "stores": [
+        {
+            "id":1,
+            "name": "H&M",
+            "image": "https://therockbury.com/wp-content/uploads/2014/03/HM-logo.jpg",
+            "description": "Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetur adipisicing eli Maxime mollitia, molestiae quas",
+            "followers": 2
+        },
+        {
+            "id":2,
+            "name": "Denim",
+            "image": "https://i.pinimg.com/550x/2c/7a/d1/2c7ad1b36b3f2cc2d580a189511f547c.jpg",
+            "description": "Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetur adipisicing eli Maxime mollitia, molestiae quas",
+            "followers": 2
+        },
+        {
+            "id":3,
+            "name": "Belenciaga",
+            "image": "https://www.playnetwork.com/wp-content/uploads/2021/02/balenciaga-new-logo.png",
+            "description": "Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetur adipisicing eli Maxime mollitia, molestiae quas",
+            "followers": 2
+        },
+        {
+            "id":4,
+            "name": "TOP TEN",
+            "image": "https://www.mawbiz.com.bd/application/views/module/logo_image/top_ten.jpg",
+            "description": "Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetur adipisicing eli Maxime mollitia, molestiae quas",
+            "followers": 0
+        }
+    ],
+    "deleted": []
+}
